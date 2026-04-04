@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "bundles": [
+    {
+      "name": "Aurora Complete SaaS Bundle",
+      "description": "Full suite of Aurora SaaS tools",
+      "repos": ["endlessrunner"],
+      "discount": 0.2,
+      "url": "https://auroramarket.org/bundles/aurora-complete"
+    }
+  ]
+}
